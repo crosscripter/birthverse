@@ -1,0 +1,12 @@
+{
+  "name": "birthverse",
+  "version": "1.0.0",
+  "description": "this is your Birth Date Scripture",
+  "main": "birthverse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
